@@ -1,7 +1,11 @@
 CakeTwit
 ========
 
-This is the source code for the CakeTwit Workshop at [ICCM 2013](iccm-europe.org).  This is not a production ready repository.  CakeTwit is a Twitter like service designed to introduce people to the benefits of working on the [CakePHP](http://www.cakephp.org) Framework.
+This is the source code for the CakeTwit Workshop at [ICCM 2013](iccm-europe.org).
+
+Do you want to build PHP websites faster? I think we all do. In this workshop, we will take a brief look at the [CakePHP](http://www.cakephp.org) open-source PHP framework that makes this possible. As we build a simple Twitter like service, called CakeTwit, you will learn the benefits of using a framework in your development. CakePHP provides code generation, Model View Controller Architecture, helper libraries for faster development, and much more! If you want make programming a piece of cake, check out this workshop.
+
+This is not a production ready repository.  You can also find the presentation slides at [SlideShare](http://www.slideshare.net/M_Digerati/caketwit-16279682).
 
 
 What is CakePHP?
